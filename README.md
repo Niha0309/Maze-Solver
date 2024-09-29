@@ -1,5 +1,5 @@
 # Maze-Solver
-A simple maze-solving program using Depth-First Search (DFS). The maze is read from a text file, with `A` as the start and `B` as the goal. The goal of this program is to find path from A to B .
+A simple maze-solving program using Depth-First Search (DFS). The maze is read from a text file. The goal of this program is to find path from A to B . Here ,A is the starting point and B is the finishing point . 
 ## Features
 - Load mazes from a text file. walls are any other characters, and spaces are paths. 
 - Solve using DFS and Find the solution .
