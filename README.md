@@ -9,16 +9,29 @@ Run the program with:
 python Maze.py maze.txt ( Example : python Maze.py maze3.txt )
 Maze:
 Eample : 
+
 ██    █
+
 ██ ██ █
+
 █B █  █
+
 █ ██ ██
+
      ██
+     
 A██████
+
 Solution:
+
 ██****█
+
 ██*██*█
+
 █B*█**█
+
 █ ██*██
+
 *****██
+
 A██████
